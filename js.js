@@ -3,7 +3,13 @@ document.addEventListener("DOMContentLoaded", function(){
 	var map = L.map("map")
 		.setView(f, 13);
 		
-	L.tileLayer('//{s}.tile.osm.org/{z}/{x}/{y}.png', {
+    // var host = 'http://{s}.tile.osm.org/{z}/{x}/{y}.png'
+
+    var id = 'k2-e9fbbbec';
+    var host = 'http://{s}.maps.omniscale.net/v2/{id}/style.grayscale/{z}/{x}/{y}.png'.replace('{id}', id);
+
+	L.tileLayer(host, {
+        id: id,
 		attribution: '<a href="http://osm.org/copyright">OpenStreetMap</a>'
 	}).addTo(map);
 	
@@ -29,20 +35,44 @@ document.addEventListener("DOMContentLoaded", function(){
                 	}
                 });
         })
-        // .then(function(buildings){
-        // 	buildings.poly = buildings.poly.map(function(poly){
-        // 		return poly.map(function(poly){
-        // 			return [poly[1], poly[0]]	
-        // 		});
-        // 	})
-        // 	return buildings;
-        // })
         .then(function(buildings){
             buildings.forEach(function(bld){
         		bld.poly = bld.poly.map(function(point){
         			return [point[1], point[0]];
         		});
-        		L.polygon(bld.poly).addTo(map);
+        		L.polygon(bld.poly, {
+                    stroke: false,
+                    fillColor: '#000',
+                    fillOpacity: 0.75
+                }).addTo(map);
         	});
+        });
+
+    fetch('constr_points.csv')
+        .then(function(res){
+            return res.text();
+        })
+        .then(function(text){
+            return text.split("\n")
+                .map(function(row){
+                    return row.split(",").map(function(coord){
+                        return parseFloat(coord);
+                    });
+                });
+        })
+        .then(function(points){
+            console.log(points);
+            points.forEach(function(point){
+                L.marker([point[1], point[0]]).addTo(map);
+                // L.circle(
+                //     [point[1], point[0]],
+                //     10,
+                //     {
+                //         stroke: false,
+                //         fillColor: '#a22',
+                //         fillOpacity: 0.75
+                //     }
+                // ).addTo(map);
+            });
         });
 });
