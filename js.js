@@ -36,6 +36,7 @@ document.addEventListener("DOMContentLoaded", function(){
                 });
         })
         .then(function(buildings){
+            var buildings_group = L.layerGroup();
             buildings.forEach(function(bld){
         		bld.poly = bld.poly.map(function(point){
         			return [point[1], point[0]];
@@ -44,8 +45,19 @@ document.addEventListener("DOMContentLoaded", function(){
                     stroke: false,
                     fillColor: '#000',
                     fillOpacity: 0.75
-                }).addTo(map);
+                }).addTo(buildings_group);
         	});
+
+            function update_buildings(){
+                if (map.getZoom() < 13) {
+                    map.removeLayer(buildings_group);
+                }else{
+                    map.addLayer(buildings_group);
+                }
+            }
+
+            map.on('zoomend', update_buildings);
+            update_buildings();
         });
 
     fetch('constr_points.csv')
@@ -61,18 +73,12 @@ document.addEventListener("DOMContentLoaded", function(){
                 });
         })
         .then(function(points){
-            console.log(points);
+            var markers = new L.MarkerClusterGroup();
             points.forEach(function(point){
-                L.marker([point[1], point[0]]).addTo(map);
-                // L.circle(
-                //     [point[1], point[0]],
-                //     10,
-                //     {
-                //         stroke: false,
-                //         fillColor: '#a22',
-                //         fillOpacity: 0.75
-                //     }
-                // ).addTo(map);
+                var coord = [point[1], point[0]]
+                // L.marker(coord).addTo(map);
+                markers.addLayer(new L.Marker(coord));
             });
+            map.addLayer(markers);
         });
 });
