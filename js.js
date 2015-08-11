@@ -1,12 +1,30 @@
 document.addEventListener("DOMContentLoaded", function(){
-	var f = [59.8922696, 30.4294064];
-	var map = L.map("map")
-		.setView(f, 13);
-		
-    // var host = 'http://{s}.tile.osm.org/{z}/{x}/{y}.png'
+	var startCoord = L.latLng(59.9515, 30.3094);
 
-    var id = 'k2-e9fbbbec';
-    var host = 'http://{s}.maps.omniscale.net/v2/{id}/style.grayscale/{z}/{x}/{y}.png'.replace('{id}', id);
+	var southWest = L.latLng(59.7079, 30.8276);
+	var northEast = L.latLng(60.1784, 29.5505);
+	var bounds = L.latLngBounds(southWest, northEast);
+
+	var id, host, access_token;
+	var map = L.map("map", {
+		zoomControl:false,
+		maxBounds: bounds,
+	    maxZoom: 19,
+	    minZoom: 10
+	})
+		.setView(startCoord, 13);
+	
+	//DEFAULT OSM	
+    host = 'http://{s}.tile.osm.org/{z}/{x}/{y}.png'
+
+    //GRAYSCALE OMNISCALE
+    id = 'k2-e9fbbbec';
+    host = `http://{s}.maps.omniscale.net/v2/${id}/style.grayscale/{z}/{x}/{y}.png`;
+
+    //DARK MAPBOX (K2)
+    id = 'tmshv.n53m7441';
+    access_token = 'pk.eyJ1IjoidG1zaHYiLCJhIjoiM3BMLVc2MCJ9.PM9ukwAm-YUGlrBqt4V6vw';
+    host = `https://{s}.tiles.mapbox.com/v4/${id}/{z}/{x}/{y}.png?access_token=${access_token}`;	
 
 	L.tileLayer(host, {
         id: id,
@@ -43,7 +61,8 @@ document.addEventListener("DOMContentLoaded", function(){
         		});
         		L.polygon(bld.poly, {
                     stroke: false,
-                    fillColor: '#000',
+                    fillColor: '#ff9900',
+                    // fillColor: '#999',
                     fillOpacity: 0.75
                 }).addTo(buildings_group);
         	});
