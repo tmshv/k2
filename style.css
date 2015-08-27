@@ -935,7 +935,7 @@ header .logo {
   margin-left: .75em;
   width: 146px;
   height: 3.15em;
-  background: url('/graphics/logo_ru.png') no-repeat 100%;
+  background: url('graphics/logo_ru.png') no-repeat 100%;
 }
 
 .counter {
