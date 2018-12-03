@@ -3,6 +3,3 @@ node_modules/
 .idea
 
 .DS_Store
-Tools/*.json
-Tools/*.geojson
-Tools/*.tsv

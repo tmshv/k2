@@ -17,3 +17,25 @@
 [Toner & cw.geojson](http://tmshv.github.io/k2/?file=cw.geojson&tiles=toner)
 
 [Toner & okn.geojson](http://tmshv.github.io/k2/?file=okn.geojson&tiles=toner)
+
+### Data format
+
+#### Feature
+```json
+"properties": {
+    "OSM_ID": 92349464,
+    "style": "Конструктивизм",
+    "address": "Зеленогорск Ленина пр. 19",
+    "id": 373,
+    "name": "Жилой дом с гастрономом",
+    "architects": ["Хуттунен Э."],
+    "num": 43,
+    "source": {
+        "url":"http://www.citywalls.ru/house19499.html",
+        "comm": 2,
+        "votes": 1,
+        "views": 267
+    },
+    "year": [1933]
+}
+```

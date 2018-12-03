@@ -2,7 +2,7 @@
     "features": [
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house6444.html",
+                "sourceUrl": "http://www.citywalls.ru/house6444.html",
                 "year": [
                     1929
                 ],
@@ -197,7 +197,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house24492.html",
+                "sourceUrl": "http://www.citywalls.ru/house24492.html",
                 "year": [
                     [
                         1909,
@@ -272,7 +272,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house24545.html",
+                "sourceUrl": "http://www.citywalls.ru/house24545.html",
                 "year": [
                     1937
                 ],
@@ -336,7 +336,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house24474.html",
+                "sourceUrl": "http://www.citywalls.ru/house24474.html",
                 "year": [
                     1938
                 ],
@@ -417,7 +417,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house2500.html",
+                "sourceUrl": "http://www.citywalls.ru/house2500.html",
                 "year": [
                     [
                         1929,
@@ -465,7 +465,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house25131.html",
+                "sourceUrl": "http://www.citywalls.ru/house25131.html",
                 "year": [],
                 "address": "переулок Сахарный,  6",
                 "architects": [],
@@ -536,7 +536,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house25263.html",
+                "sourceUrl": "http://www.citywalls.ru/house25263.html",
                 "year": [
                     1927
                 ],
@@ -596,7 +596,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house25270.html",
+                "sourceUrl": "http://www.citywalls.ru/house25270.html",
                 "year": [
                     1927
                 ],
@@ -736,7 +736,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house25281.html",
+                "sourceUrl": "http://www.citywalls.ru/house25281.html",
                 "year": [
                     1932
                 ],
@@ -796,7 +796,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house25458.html",
+                "sourceUrl": "http://www.citywalls.ru/house25458.html",
                 "year": [
                     1937
                 ],
@@ -837,7 +837,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house25467.html",
+                "sourceUrl": "http://www.citywalls.ru/house25467.html",
                 "year": [
                     1937
                 ],
@@ -878,7 +878,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house25478.html",
+                "sourceUrl": "http://www.citywalls.ru/house25478.html",
                 "year": [],
                 "address": "улица Бабушкина,  121",
                 "architects": [],
@@ -945,7 +945,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house3012.html",
+                "sourceUrl": "http://www.citywalls.ru/house3012.html",
                 "year": [
                     [
                         1924,
@@ -992,7 +992,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house6264.html",
+                "sourceUrl": "http://www.citywalls.ru/house6264.html",
                 "year": [
                     [
                         1926,
@@ -1052,7 +1052,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house6321.html",
+                "sourceUrl": "http://www.citywalls.ru/house6321.html",
                 "year": [
                     [
                         1930,
@@ -1288,7 +1288,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house15313.html",
+                "sourceUrl": "http://www.citywalls.ru/house15313.html",
                 "year": [],
                 "address": "улица Самойловой,  5",
                 "architects": [],
@@ -1327,7 +1327,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house15151.html",
+                "sourceUrl": "http://www.citywalls.ru/house15151.html",
                 "year": [
                     [
                         1927,
@@ -1374,7 +1374,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house15872.html",
+                "sourceUrl": "http://www.citywalls.ru/house15872.html",
                 "year": [
                     1938
                 ],
@@ -1497,7 +1497,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house1580.html",
+                "sourceUrl": "http://www.citywalls.ru/house1580.html",
                 "year": [
                     [
                         1930,
@@ -1621,7 +1621,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house1580.html",
+                "sourceUrl": "http://www.citywalls.ru/house1580.html",
                 "year": [
                     [
                         1930,
@@ -1701,7 +1701,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house15959.html",
+                "sourceUrl": "http://www.citywalls.ru/house15959.html",
                 "year": [],
                 "address": "проспект Приморский,  47",
                 "architects": [],
@@ -1820,7 +1820,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house16052.html",
+                "sourceUrl": "http://www.citywalls.ru/house16052.html",
                 "year": [
                     [
                         1925,
@@ -1869,7 +1869,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house16053.html",
+                "sourceUrl": "http://www.citywalls.ru/house16053.html",
                 "year": [
                     [
                         1925,
@@ -1925,7 +1925,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house16118.html",
+                "sourceUrl": "http://www.citywalls.ru/house16118.html",
                 "year": [
                     1937
                 ],
@@ -1998,7 +1998,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house16104.html",
+                "sourceUrl": "http://www.citywalls.ru/house16104.html",
                 "year": [
                     1933
                 ],
@@ -2075,7 +2075,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house1616.html",
+                "sourceUrl": "http://www.citywalls.ru/house1616.html",
                 "year": [
                     [
                         1929,
@@ -2133,7 +2133,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house16219.html",
+                "sourceUrl": "http://www.citywalls.ru/house16219.html",
                 "year": [],
                 "address": "улица Бабушкина,  135",
                 "architects": [],
@@ -2208,7 +2208,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house16344.html",
+                "sourceUrl": "http://www.citywalls.ru/house16344.html",
                 "year": [
                     [
                         1935,
@@ -2336,7 +2336,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house16500.html",
+                "sourceUrl": "http://www.citywalls.ru/house16500.html",
                 "year": [
                     [
                         1935,
@@ -2464,7 +2464,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house16561.html",
+                "sourceUrl": "http://www.citywalls.ru/house16561.html",
                 "year": [
                     1930
                 ],
@@ -2537,7 +2537,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house16600.html",
+                "sourceUrl": "http://www.citywalls.ru/house16600.html",
                 "year": [
                     1939
                 ],
@@ -2578,7 +2578,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house16627.html",
+                "sourceUrl": "http://www.citywalls.ru/house16627.html",
                 "year": [
                     [
                         1930,
@@ -2636,7 +2636,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house16703.html",
+                "sourceUrl": "http://www.citywalls.ru/house16703.html",
                 "year": [
                     1937
                 ],
@@ -2805,7 +2805,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house16702.html",
+                "sourceUrl": "http://www.citywalls.ru/house16702.html",
                 "year": [
                     1934
                 ],
@@ -2846,7 +2846,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house17246.html",
+                "sourceUrl": "http://www.citywalls.ru/house17246.html",
                 "year": [
                     1933
                 ],
@@ -2911,7 +2911,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house17247.html",
+                "sourceUrl": "http://www.citywalls.ru/house17247.html",
                 "year": [
                     1933
                 ],
@@ -2968,7 +2968,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house17258.html",
+                "sourceUrl": "http://www.citywalls.ru/house17258.html",
                 "year": [
                     [
                         1934,
@@ -3036,7 +3036,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house17482.html",
+                "sourceUrl": "http://www.citywalls.ru/house17482.html",
                 "year": [
                     1938
                 ],
@@ -3169,7 +3169,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house17483.html",
+                "sourceUrl": "http://www.citywalls.ru/house17483.html",
                 "year": [],
                 "address": "проспект Энгельса,  11",
                 "architects": [
@@ -3230,7 +3230,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house17495.html",
+                "sourceUrl": "http://www.citywalls.ru/house17495.html",
                 "year": [
                     [
                         1934,
@@ -3322,7 +3322,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house17838.html",
+                "sourceUrl": "http://www.citywalls.ru/house17838.html",
                 "year": [
                     1937
                 ],
@@ -3443,7 +3443,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house17870.html",
+                "sourceUrl": "http://www.citywalls.ru/house17870.html",
                 "year": [
                     [
                         1932,
@@ -3516,7 +3516,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house1823.html",
+                "sourceUrl": "http://www.citywalls.ru/house1823.html",
                 "year": [
                     [
                         1925,
@@ -3696,7 +3696,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house1825.html",
+                "sourceUrl": "http://www.citywalls.ru/house1825.html",
                 "year": [
                     [
                         1925,
@@ -3764,7 +3764,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house1825.html",
+                "sourceUrl": "http://www.citywalls.ru/house1825.html",
                 "year": [
                     [
                         1925,
@@ -3872,7 +3872,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house1825.html",
+                "sourceUrl": "http://www.citywalls.ru/house1825.html",
                 "year": [
                     [
                         1925,
@@ -3980,7 +3980,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house1824.html",
+                "sourceUrl": "http://www.citywalls.ru/house1824.html",
                 "year": [
                     [
                         1925,
@@ -4143,7 +4143,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house18963.html",
+                "sourceUrl": "http://www.citywalls.ru/house18963.html",
                 "year": [],
                 "address": "проспект Московский,  181",
                 "architects": [],
@@ -4190,7 +4190,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house1829.html",
+                "sourceUrl": "http://www.citywalls.ru/house1829.html",
                 "year": [
                     [
                         1925,
@@ -4246,7 +4246,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house18969.html",
+                "sourceUrl": "http://www.citywalls.ru/house18969.html",
                 "year": [
                     1934
                 ],
@@ -4297,7 +4297,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house19232.html",
+                "sourceUrl": "http://www.citywalls.ru/house19232.html",
                 "year": [
                     1927
                 ],
@@ -4402,7 +4402,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house19455.html",
+                "sourceUrl": "http://www.citywalls.ru/house19455.html",
                 "year": [
                     [
                         1929,
@@ -4522,7 +4522,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house20159.html",
+                "sourceUrl": "http://www.citywalls.ru/house20159.html",
                 "year": [],
                 "address": "улица Широкая,  4",
                 "architects": [],
@@ -4561,7 +4561,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house20159.html",
+                "sourceUrl": "http://www.citywalls.ru/house20159.html",
                 "year": [],
                 "address": "улица Восстания,  11",
                 "architects": [],
@@ -4656,7 +4656,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house2020.html",
+                "sourceUrl": "http://www.citywalls.ru/house2020.html",
                 "year": [
                     [
                         1925,
@@ -4764,7 +4764,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house20350.html",
+                "sourceUrl": "http://www.citywalls.ru/house20350.html",
                 "year": [
                     1923
                 ],
@@ -4807,7 +4807,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house2136.html",
+                "sourceUrl": "http://www.citywalls.ru/house2136.html",
                 "year": [
                     1938
                 ],
@@ -4879,7 +4879,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house21809.html",
+                "sourceUrl": "http://www.citywalls.ru/house21809.html",
                 "year": [],
                 "address": "Рощинское шоссе,  9",
                 "architects": [],
@@ -4918,7 +4918,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house21834.html",
+                "sourceUrl": "http://www.citywalls.ru/house21834.html",
                 "year": [
                     1927
                 ],
@@ -5007,7 +5007,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house2184.html",
+                "sourceUrl": "http://www.citywalls.ru/house2184.html",
                 "year": [
                     1938
                 ],
@@ -5071,7 +5071,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house22177.html",
+                "sourceUrl": "http://www.citywalls.ru/house22177.html",
                 "year": [
                     [
                         1935,
@@ -5187,7 +5187,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house22575.html",
+                "sourceUrl": "http://www.citywalls.ru/house22575.html",
                 "year": [],
                 "address": "проспект Обуховской Обороны,  56а",
                 "architects": [],
@@ -5250,7 +5250,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house22602.html",
+                "sourceUrl": "http://www.citywalls.ru/house22602.html",
                 "year": [
                     1940
                 ],
@@ -5323,7 +5323,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house22733.html",
+                "sourceUrl": "http://www.citywalls.ru/house22733.html",
                 "year": [
                     1934
                 ],
@@ -5364,7 +5364,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house23154.html",
+                "sourceUrl": "http://www.citywalls.ru/house23154.html",
                 "year": [
                     [
                         1930,
@@ -5498,7 +5498,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house23226.html",
+                "sourceUrl": "http://www.citywalls.ru/house23226.html",
                 "year": [
                     1928
                 ],
@@ -5541,7 +5541,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house23226.html",
+                "sourceUrl": "http://www.citywalls.ru/house23226.html",
                 "year": [
                     1928
                 ],
@@ -5600,7 +5600,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house23238.html",
+                "sourceUrl": "http://www.citywalls.ru/house23238.html",
                 "year": [],
                 "address": "улица Льва Толстого,  6",
                 "architects": [],
@@ -5639,7 +5639,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house23238.html",
+                "sourceUrl": "http://www.citywalls.ru/house23238.html",
                 "year": [],
                 "address": "улица Льва Толстого,  8",
                 "architects": [],
@@ -5694,7 +5694,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house23239.html",
+                "sourceUrl": "http://www.citywalls.ru/house23239.html",
                 "year": [],
                 "address": "улица Льва Толстого,  6",
                 "architects": [],
@@ -5733,7 +5733,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house23239.html",
+                "sourceUrl": "http://www.citywalls.ru/house23239.html",
                 "year": [],
                 "address": "улица Льва Толстого,  8",
                 "architects": [],
@@ -5788,7 +5788,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house23267.html",
+                "sourceUrl": "http://www.citywalls.ru/house23267.html",
                 "year": [],
                 "address": "улица Льва Толстого,  6",
                 "architects": [],
@@ -5827,7 +5827,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house23267.html",
+                "sourceUrl": "http://www.citywalls.ru/house23267.html",
                 "year": [],
                 "address": "улица Льва Толстого,  8",
                 "architects": [],
@@ -5882,7 +5882,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house23584.html",
+                "sourceUrl": "http://www.citywalls.ru/house23584.html",
                 "year": [],
                 "address": "проспект Энгельса,  107",
                 "architects": [],
@@ -5925,7 +5925,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house23675.html",
+                "sourceUrl": "http://www.citywalls.ru/house23675.html",
                 "year": [
                     1930
                 ],
@@ -6014,7 +6014,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house23677.html",
+                "sourceUrl": "http://www.citywalls.ru/house23677.html",
                 "year": [
                     1930
                 ],
@@ -6079,7 +6079,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house23676.html",
+                "sourceUrl": "http://www.citywalls.ru/house23676.html",
                 "year": [
                     1930
                 ],
@@ -6180,7 +6180,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house23676.html",
+                "sourceUrl": "http://www.citywalls.ru/house23676.html",
                 "year": [
                     1930
                 ],
@@ -6249,7 +6249,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house23713.html",
+                "sourceUrl": "http://www.citywalls.ru/house23713.html",
                 "year": [],
                 "address": "улица Земледельческая,  3",
                 "architects": [],
@@ -6376,7 +6376,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house23775.html",
+                "sourceUrl": "http://www.citywalls.ru/house23775.html",
                 "year": [
                     1931
                 ],
@@ -6471,7 +6471,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house23786.html",
+                "sourceUrl": "http://www.citywalls.ru/house23786.html",
                 "year": [
                     1930
                 ],
@@ -6512,7 +6512,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house24001.html",
+                "sourceUrl": "http://www.citywalls.ru/house24001.html",
                 "year": [
                     1929
                 ],
@@ -6585,7 +6585,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house2408.html",
+                "sourceUrl": "http://www.citywalls.ru/house2408.html",
                 "year": [
                     [
                         1888,
@@ -6688,7 +6688,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house24252.html",
+                "sourceUrl": "http://www.citywalls.ru/house24252.html",
                 "year": [
                     1934
                 ],
@@ -6733,7 +6733,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house24253.html",
+                "sourceUrl": "http://www.citywalls.ru/house24253.html",
                 "year": [
                     1936
                 ],
@@ -6822,7 +6822,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house2430.html",
+                "sourceUrl": "http://www.citywalls.ru/house2430.html",
                 "year": [
                     [
                         1926,
@@ -6984,7 +6984,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house2440.html",
+                "sourceUrl": "http://www.citywalls.ru/house2440.html",
                 "year": [
                     [
                         1927,
@@ -7079,7 +7079,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house4568.html",
+                "sourceUrl": "http://www.citywalls.ru/house4568.html",
                 "year": [
                     1930
                 ],
@@ -7138,7 +7138,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house4622.html",
+                "sourceUrl": "http://www.citywalls.ru/house4622.html",
                 "year": [
                     1927
                 ],
@@ -7395,7 +7395,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house4679.html",
+                "sourceUrl": "http://www.citywalls.ru/house4679.html",
                 "year": [
                     1935
                 ],
@@ -7530,7 +7530,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house4702.html",
+                "sourceUrl": "http://www.citywalls.ru/house4702.html",
                 "year": [
                     1930
                 ],
@@ -7683,7 +7683,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house4388.html",
+                "sourceUrl": "http://www.citywalls.ru/house4388.html",
                 "year": [
                     1931
                 ],
@@ -7724,7 +7724,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house4753.html",
+                "sourceUrl": "http://www.citywalls.ru/house4753.html",
                 "year": [
                     [
                         1932,
@@ -7831,7 +7831,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house5200.html",
+                "sourceUrl": "http://www.citywalls.ru/house5200.html",
                 "year": [
                     [
                         1925,
@@ -7879,7 +7879,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house5204.html",
+                "sourceUrl": "http://www.citywalls.ru/house5204.html",
                 "year": [
                     [
                         1930,
@@ -8087,7 +8087,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house5302.html",
+                "sourceUrl": "http://www.citywalls.ru/house5302.html",
                 "year": [
                     1933
                 ],
@@ -8152,7 +8152,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house5310.html",
+                "sourceUrl": "http://www.citywalls.ru/house5310.html",
                 "year": [
                     1936
                 ],
@@ -8199,7 +8199,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house5310.html",
+                "sourceUrl": "http://www.citywalls.ru/house5310.html",
                 "year": [
                     1936
                 ],
@@ -8302,7 +8302,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house5907.html",
+                "sourceUrl": "http://www.citywalls.ru/house5907.html",
                 "year": [
                     1936
                 ],
@@ -8361,7 +8361,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house5901.html",
+                "sourceUrl": "http://www.citywalls.ru/house5901.html",
                 "year": [
                     [
                         1928,
@@ -8407,7 +8407,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house5901.html",
+                "sourceUrl": "http://www.citywalls.ru/house5901.html",
                 "year": [
                     [
                         1928,
@@ -8453,7 +8453,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house5923.html",
+                "sourceUrl": "http://www.citywalls.ru/house5923.html",
                 "year": [
                     [
                         1931,
@@ -8779,7 +8779,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house6131.html",
+                "sourceUrl": "http://www.citywalls.ru/house6131.html",
                 "year": [
                     [
                         1931,
@@ -9007,7 +9007,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house10134.html",
+                "sourceUrl": "http://www.citywalls.ru/house10134.html",
                 "year": [
                     [
                         1924,
@@ -9053,7 +9053,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house10117.html",
+                "sourceUrl": "http://www.citywalls.ru/house10117.html",
                 "year": [],
                 "address": "улица Пугачева,  5",
                 "architects": [],
@@ -9092,7 +9092,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house10117.html",
+                "sourceUrl": "http://www.citywalls.ru/house10117.html",
                 "year": [],
                 "address": "улица Пугачева,  7",
                 "architects": [],
@@ -9131,7 +9131,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house10193.html",
+                "sourceUrl": "http://www.citywalls.ru/house10193.html",
                 "year": [
                     [
                         1930,
@@ -9177,7 +9177,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house10193.html",
+                "sourceUrl": "http://www.citywalls.ru/house10193.html",
                 "year": [
                     [
                         1930,
@@ -9387,7 +9387,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house10214.html",
+                "sourceUrl": "http://www.citywalls.ru/house10214.html",
                 "year": [
                     [
                         1914,
@@ -9459,7 +9459,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house10261.html",
+                "sourceUrl": "http://www.citywalls.ru/house10261.html",
                 "year": [
                     1937
                 ],
@@ -9502,7 +9502,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house10313.html",
+                "sourceUrl": "http://www.citywalls.ru/house10313.html",
                 "year": [
                     1931
                 ],
@@ -9569,7 +9569,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house10333.html",
+                "sourceUrl": "http://www.citywalls.ru/house10333.html",
                 "year": [
                     [
                         1926,
@@ -9652,7 +9652,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house10333.html",
+                "sourceUrl": "http://www.citywalls.ru/house10333.html",
                 "year": [
                     [
                         1926,
@@ -9715,7 +9715,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house10333.html",
+                "sourceUrl": "http://www.citywalls.ru/house10333.html",
                 "year": [
                     [
                         1926,
@@ -9798,7 +9798,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house10337.html",
+                "sourceUrl": "http://www.citywalls.ru/house10337.html",
                 "year": [
                     [
                         1926,
@@ -9877,7 +9877,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house10335.html",
+                "sourceUrl": "http://www.citywalls.ru/house10335.html",
                 "year": [
                     [
                         1927,
@@ -9924,7 +9924,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house10342.html",
+                "sourceUrl": "http://www.citywalls.ru/house10342.html",
                 "year": [
                     1930
                 ],
@@ -9967,7 +9967,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house10338.html",
+                "sourceUrl": "http://www.citywalls.ru/house10338.html",
                 "year": [
                     [
                         1927,
@@ -10145,7 +10145,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house10343.html",
+                "sourceUrl": "http://www.citywalls.ru/house10343.html",
                 "year": [
                     1930
                 ],
@@ -10192,7 +10192,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house10344.html",
+                "sourceUrl": "http://www.citywalls.ru/house10344.html",
                 "year": [
                     1930
                 ],
@@ -10235,7 +10235,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house10439.html",
+                "sourceUrl": "http://www.citywalls.ru/house10439.html",
                 "year": [],
                 "address": "улица Новгородская,  9",
                 "architects": [],
@@ -10274,7 +10274,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house10479.html",
+                "sourceUrl": "http://www.citywalls.ru/house10479.html",
                 "year": [
                     [
                         1927,
@@ -10350,7 +10350,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house10500.html",
+                "sourceUrl": "http://www.citywalls.ru/house10500.html",
                 "year": [
                     [
                         1929,
@@ -10397,7 +10397,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house1052.html",
+                "sourceUrl": "http://www.citywalls.ru/house1052.html",
                 "year": [
                     [
                         1932,
@@ -10451,7 +10451,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house10583.html",
+                "sourceUrl": "http://www.citywalls.ru/house10583.html",
                 "year": [
                     [
                         1928,
@@ -10503,7 +10503,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house10667.html",
+                "sourceUrl": "http://www.citywalls.ru/house10667.html",
                 "year": [
                     [
                         1927,
@@ -10550,7 +10550,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house10671.html",
+                "sourceUrl": "http://www.citywalls.ru/house10671.html",
                 "year": [
                     [
                         1927,
@@ -10629,7 +10629,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house10670.html",
+                "sourceUrl": "http://www.citywalls.ru/house10670.html",
                 "year": [],
                 "address": "улица Бабушкина,  27",
                 "architects": [],
@@ -10724,7 +10724,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house10899.html",
+                "sourceUrl": "http://www.citywalls.ru/house10899.html",
                 "year": [],
                 "address": "улица Трефолева,  11",
                 "architects": [],
@@ -10819,7 +10819,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house10787.html",
+                "sourceUrl": "http://www.citywalls.ru/house10787.html",
                 "year": [],
                 "address": "улица Тюшина,  14",
                 "architects": [],
@@ -10858,7 +10858,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house10900.html",
+                "sourceUrl": "http://www.citywalls.ru/house10900.html",
                 "year": [
                     1927
                 ],
@@ -10939,7 +10939,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house10977.html",
+                "sourceUrl": "http://www.citywalls.ru/house10977.html",
                 "year": [
                     [
                         1928,
@@ -10986,7 +10986,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house10993.html",
+                "sourceUrl": "http://www.citywalls.ru/house10993.html",
                 "year": [
                     [
                         1927,
@@ -11069,7 +11069,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house10994.html",
+                "sourceUrl": "http://www.citywalls.ru/house10994.html",
                 "year": [
                     [
                         1927,
@@ -11152,7 +11152,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house10995.html",
+                "sourceUrl": "http://www.citywalls.ru/house10995.html",
                 "year": [
                     [
                         1927,
@@ -11207,7 +11207,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house11072.html",
+                "sourceUrl": "http://www.citywalls.ru/house11072.html",
                 "year": [
                     1929
                 ],
@@ -11250,7 +11250,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house11077.html",
+                "sourceUrl": "http://www.citywalls.ru/house11077.html",
                 "year": [],
                 "address": "улица Цветочная,  10",
                 "architects": [],
@@ -11297,7 +11297,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house11192.html",
+                "sourceUrl": "http://www.citywalls.ru/house11192.html",
                 "year": [
                     [
                         1926,
@@ -11551,7 +11551,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house11193.html",
+                "sourceUrl": "http://www.citywalls.ru/house11193.html",
                 "year": [
                     [
                         1930,
@@ -11611,7 +11611,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house11237.html",
+                "sourceUrl": "http://www.citywalls.ru/house11237.html",
                 "year": [
                     [
                         1929,
@@ -11669,7 +11669,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house11240.html",
+                "sourceUrl": "http://www.citywalls.ru/house11240.html",
                 "year": [
                     [
                         1929,
@@ -11739,7 +11739,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house1126.html",
+                "sourceUrl": "http://www.citywalls.ru/house1126.html",
                 "year": [
                     [
                         1931,
@@ -11826,7 +11826,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house11299.html",
+                "sourceUrl": "http://www.citywalls.ru/house11299.html",
                 "year": [
                     [
                         1925,
@@ -11923,7 +11923,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house11309.html",
+                "sourceUrl": "http://www.citywalls.ru/house11309.html",
                 "year": [
                     [
                         1932,
@@ -11969,7 +11969,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house11311.html",
+                "sourceUrl": "http://www.citywalls.ru/house11311.html",
                 "year": [
                     1935
                 ],
@@ -12034,7 +12034,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house11317.html",
+                "sourceUrl": "http://www.citywalls.ru/house11317.html",
                 "year": [],
                 "address": "улица Перекопская,  8",
                 "architects": [],
@@ -12081,7 +12081,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house11342.html",
+                "sourceUrl": "http://www.citywalls.ru/house11342.html",
                 "year": [
                     1937
                 ],
@@ -12132,7 +12132,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house11379.html",
+                "sourceUrl": "http://www.citywalls.ru/house11379.html",
                 "year": [
                     1937
                 ],
@@ -12200,7 +12200,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house11382.html",
+                "sourceUrl": "http://www.citywalls.ru/house11382.html",
                 "year": [
                     [
                         1935,
@@ -12276,7 +12276,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house11382.html",
+                "sourceUrl": "http://www.citywalls.ru/house11382.html",
                 "year": [
                     [
                         1935,
@@ -12352,7 +12352,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house11491.html",
+                "sourceUrl": "http://www.citywalls.ru/house11491.html",
                 "year": [
                     1935,
                     [
@@ -12413,7 +12413,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house11313.html",
+                "sourceUrl": "http://www.citywalls.ru/house11313.html",
                 "year": [
                     1931
                 ],
@@ -12454,7 +12454,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house11516.html",
+                "sourceUrl": "http://www.citywalls.ru/house11516.html",
                 "year": [
                     1928
                 ],
@@ -12595,7 +12595,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house11517.html",
+                "sourceUrl": "http://www.citywalls.ru/house11517.html",
                 "year": [
                     1928
                 ],
@@ -12636,7 +12636,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house11523.html",
+                "sourceUrl": "http://www.citywalls.ru/house11523.html",
                 "year": [
                     1934
                 ],
@@ -12681,7 +12681,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house11655.html",
+                "sourceUrl": "http://www.citywalls.ru/house11655.html",
                 "year": [],
                 "address": "улица Большая Пушкарская,  29",
                 "architects": [],
@@ -12768,7 +12768,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house11752.html",
+                "sourceUrl": "http://www.citywalls.ru/house11752.html",
                 "year": [
                     [
                         1931,
@@ -12892,7 +12892,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house11862.html",
+                "sourceUrl": "http://www.citywalls.ru/house11862.html",
                 "year": [
                     1936
                 ],
@@ -12967,7 +12967,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house11893.html",
+                "sourceUrl": "http://www.citywalls.ru/house11893.html",
                 "year": [
                     [
                         1930,
@@ -13037,7 +13037,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house11910.html",
+                "sourceUrl": "http://www.citywalls.ru/house11910.html",
                 "year": [
                     1934
                 ],
@@ -13090,7 +13090,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house11932.html",
+                "sourceUrl": "http://www.citywalls.ru/house11932.html",
                 "year": [
                     1929
                 ],
@@ -13145,7 +13145,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house12101.html",
+                "sourceUrl": "http://www.citywalls.ru/house12101.html",
                 "year": [
                     1933
                 ],
@@ -13186,7 +13186,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house12116.html",
+                "sourceUrl": "http://www.citywalls.ru/house12116.html",
                 "year": [
                     1932
                 ],
@@ -13227,7 +13227,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house12174.html",
+                "sourceUrl": "http://www.citywalls.ru/house12174.html",
                 "year": [
                     1932
                 ],
@@ -13268,7 +13268,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house12176.html",
+                "sourceUrl": "http://www.citywalls.ru/house12176.html",
                 "year": [
                     1931
                 ],
@@ -13309,7 +13309,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house12397.html",
+                "sourceUrl": "http://www.citywalls.ru/house12397.html",
                 "year": [
                     1938
                 ],
@@ -13390,7 +13390,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house12415.html",
+                "sourceUrl": "http://www.citywalls.ru/house12415.html",
                 "year": [],
                 "address": "улица Герасимовская,  7",
                 "architects": [],
@@ -13469,7 +13469,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house12416.html",
+                "sourceUrl": "http://www.citywalls.ru/house12416.html",
                 "year": [],
                 "address": "улица Герасимовская,  10",
                 "architects": [],
@@ -13548,7 +13548,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house12417.html",
+                "sourceUrl": "http://www.citywalls.ru/house12417.html",
                 "year": [
                     1936
                 ],
@@ -13621,7 +13621,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house12513.html",
+                "sourceUrl": "http://www.citywalls.ru/house12513.html",
                 "year": [
                     1928
                 ],
@@ -13664,7 +13664,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house12594.html",
+                "sourceUrl": "http://www.citywalls.ru/house12594.html",
                 "year": [
                     [
                         1929,
@@ -13788,7 +13788,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house12806.html",
+                "sourceUrl": "http://www.citywalls.ru/house12806.html",
                 "year": [],
                 "address": "улица Красного Курсанта,  22",
                 "architects": [],
@@ -13827,7 +13827,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house12915.html",
+                "sourceUrl": "http://www.citywalls.ru/house12915.html",
                 "year": [
                     [
                         1933,
@@ -13879,7 +13879,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house12915.html",
+                "sourceUrl": "http://www.citywalls.ru/house12915.html",
                 "year": [
                     [
                         1933,
@@ -13931,7 +13931,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house13046.html",
+                "sourceUrl": "http://www.citywalls.ru/house13046.html",
                 "year": [
                     1935
                 ],
@@ -13980,7 +13980,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house13239.html",
+                "sourceUrl": "http://www.citywalls.ru/house13239.html",
                 "year": [
                     [
                         1934,
@@ -14072,7 +14072,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house13249.html",
+                "sourceUrl": "http://www.citywalls.ru/house13249.html",
                 "year": [
                     1930
                 ],
@@ -14149,7 +14149,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house13546.html",
+                "sourceUrl": "http://www.citywalls.ru/house13546.html",
                 "year": [],
                 "address": "улица Академика Павлова,  9а",
                 "architects": [],
@@ -14220,7 +14220,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house13763.html",
+                "sourceUrl": "http://www.citywalls.ru/house13763.html",
                 "year": [
                     [
                         1907,
@@ -14271,7 +14271,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house13710.html",
+                "sourceUrl": "http://www.citywalls.ru/house13710.html",
                 "year": [
                     1936
                 ],
@@ -14379,7 +14379,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house13774.html",
+                "sourceUrl": "http://www.citywalls.ru/house13774.html",
                 "year": [],
                 "address": "улица Сортировочная-Московская,  20",
                 "architects": [],
@@ -14418,7 +14418,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house13788.html",
+                "sourceUrl": "http://www.citywalls.ru/house13788.html",
                 "year": [
                     [
                         1925,
@@ -14466,7 +14466,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house13778.html",
+                "sourceUrl": "http://www.citywalls.ru/house13778.html",
                 "year": [
                     [
                         1928,
@@ -14620,7 +14620,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house13792.html",
+                "sourceUrl": "http://www.citywalls.ru/house13792.html",
                 "year": [],
                 "address": "улица Шотландская,  10",
                 "architects": [],
@@ -14675,7 +14675,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house13811.html",
+                "sourceUrl": "http://www.citywalls.ru/house13811.html",
                 "year": [
                     [
                         1935,
@@ -14883,7 +14883,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house13809.html",
+                "sourceUrl": "http://www.citywalls.ru/house13809.html",
                 "year": [
                     [
                         1925,
@@ -15026,7 +15026,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house13809.html",
+                "sourceUrl": "http://www.citywalls.ru/house13809.html",
                 "year": [
                     [
                         1925,
@@ -15089,7 +15089,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house13809.html",
+                "sourceUrl": "http://www.citywalls.ru/house13809.html",
                 "year": [
                     [
                         1925,
@@ -15152,7 +15152,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house13830.html",
+                "sourceUrl": "http://www.citywalls.ru/house13830.html",
                 "year": [],
                 "address": "проспект Петровский,  2",
                 "architects": [],
@@ -15211,7 +15211,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house14020.html",
+                "sourceUrl": "http://www.citywalls.ru/house14020.html",
                 "year": [
                     [
                         1934,
@@ -15283,7 +15283,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house14244.html",
+                "sourceUrl": "http://www.citywalls.ru/house14244.html",
                 "year": [
                     [
                         1927,
@@ -15366,7 +15366,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house14245.html",
+                "sourceUrl": "http://www.citywalls.ru/house14245.html",
                 "year": [
                     [
                         1927,
@@ -15445,7 +15445,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house14246.html",
+                "sourceUrl": "http://www.citywalls.ru/house14246.html",
                 "year": [
                     [
                         1927,
@@ -15524,7 +15524,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house14613.html",
+                "sourceUrl": "http://www.citywalls.ru/house14613.html",
                 "year": [
                     [
                         1927,
@@ -15571,7 +15571,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house14614.html",
+                "sourceUrl": "http://www.citywalls.ru/house14614.html",
                 "year": [
                     [
                         1927,
@@ -15618,7 +15618,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house14615.html",
+                "sourceUrl": "http://www.citywalls.ru/house14615.html",
                 "year": [
                     [
                         1927,
@@ -15665,7 +15665,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house14616.html",
+                "sourceUrl": "http://www.citywalls.ru/house14616.html",
                 "year": [
                     [
                         1927,
@@ -15752,7 +15752,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house14625.html",
+                "sourceUrl": "http://www.citywalls.ru/house14625.html",
                 "year": [
                     [
                         1927,
@@ -15815,7 +15815,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house14626.html",
+                "sourceUrl": "http://www.citywalls.ru/house14626.html",
                 "year": [
                     [
                         1927,
@@ -15898,7 +15898,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house14742.html",
+                "sourceUrl": "http://www.citywalls.ru/house14742.html",
                 "year": [],
                 "address": "улица Возрождения,  34",
                 "architects": [],
@@ -15961,7 +15961,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house14755.html",
+                "sourceUrl": "http://www.citywalls.ru/house14755.html",
                 "year": [
                     [
                         1931,
@@ -16149,7 +16149,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house14755.html",
+                "sourceUrl": "http://www.citywalls.ru/house14755.html",
                 "year": [
                     [
                         1931,
@@ -16197,7 +16197,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house14768.html",
+                "sourceUrl": "http://www.citywalls.ru/house14768.html",
                 "year": [
                     1930
                 ],
@@ -16408,7 +16408,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house14805.html",
+                "sourceUrl": "http://www.citywalls.ru/house14805.html",
                 "year": [
                     [
                         1929,
@@ -16456,7 +16456,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house14899.html",
+                "sourceUrl": "http://www.citywalls.ru/house14899.html",
                 "year": [
                     1936
                 ],
@@ -16509,7 +16509,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house15148.html",
+                "sourceUrl": "http://www.citywalls.ru/house15148.html",
                 "year": [],
                 "address": "улица Ординарная,  20в",
                 "architects": [],
@@ -16580,7 +16580,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house15158.html",
+                "sourceUrl": "http://www.citywalls.ru/house15158.html",
                 "year": [
                     1937
                 ],
@@ -16693,7 +16693,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house15211.html",
+                "sourceUrl": "http://www.citywalls.ru/house15211.html",
                 "year": [
                     [
                         1930,
@@ -16887,7 +16887,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house15211.html",
+                "sourceUrl": "http://www.citywalls.ru/house15211.html",
                 "year": [
                     [
                         1930,
@@ -16949,7 +16949,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house15257.html",
+                "sourceUrl": "http://www.citywalls.ru/house15257.html",
                 "year": [
                     1937
                 ],
@@ -16990,7 +16990,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house2773.html",
+                "sourceUrl": "http://www.citywalls.ru/house2773.html",
                 "year": [
                     [
                         1842,
@@ -17091,7 +17091,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house3494.html",
+                "sourceUrl": "http://www.citywalls.ru/house3494.html",
                 "year": [
                     [
                         1927,
@@ -17181,7 +17181,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house3774.html",
+                "sourceUrl": "http://www.citywalls.ru/house3774.html",
                 "year": [
                     1932
                 ],
@@ -17280,7 +17280,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house3775.html",
+                "sourceUrl": "http://www.citywalls.ru/house3775.html",
                 "year": [
                     1936
                 ],
@@ -17404,7 +17404,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house3893.html",
+                "sourceUrl": "http://www.citywalls.ru/house3893.html",
                 "year": [
                     [
                         1932,
@@ -17572,7 +17572,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house3904.html",
+                "sourceUrl": "http://www.citywalls.ru/house3904.html",
                 "year": [],
                 "address": "улица Курляндская,  47",
                 "architects": [],
@@ -17663,7 +17663,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house3999.html",
+                "sourceUrl": "http://www.citywalls.ru/house3999.html",
                 "year": [
                     [
                         1931,
@@ -17783,7 +17783,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house400.html",
+                "sourceUrl": "http://www.citywalls.ru/house400.html",
                 "year": [
                     [
                         1930,
@@ -17837,7 +17837,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house4038.html",
+                "sourceUrl": "http://www.citywalls.ru/house4038.html",
                 "year": [
                     [
                         1929,
@@ -18017,7 +18017,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house4116.html",
+                "sourceUrl": "http://www.citywalls.ru/house4116.html",
                 "year": [
                     1920
                 ],
@@ -18082,7 +18082,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house4124.html",
+                "sourceUrl": "http://www.citywalls.ru/house4124.html",
                 "year": [
                     1925
                 ],
@@ -18149,7 +18149,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house4140.html",
+                "sourceUrl": "http://www.citywalls.ru/house4140.html",
                 "year": [
                     [
                         1930,
@@ -18243,7 +18243,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house4252.html",
+                "sourceUrl": "http://www.citywalls.ru/house4252.html",
                 "year": [
                     [
                         1927,
@@ -18441,7 +18441,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house4334.html",
+                "sourceUrl": "http://www.citywalls.ru/house4334.html",
                 "year": [
                     1935
                 ],
@@ -18518,7 +18518,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house4516.html",
+                "sourceUrl": "http://www.citywalls.ru/house4516.html",
                 "year": [
                     [
                         1933,
@@ -18604,7 +18604,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house6566.html",
+                "sourceUrl": "http://www.citywalls.ru/house6566.html",
                 "year": [],
                 "address": "улица Александра Блока,  10",
                 "architects": [],
@@ -18687,7 +18687,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house6769.html",
+                "sourceUrl": "http://www.citywalls.ru/house6769.html",
                 "year": [
                     1935
                 ],
@@ -18731,7 +18731,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house6884.html",
+                "sourceUrl": "http://www.citywalls.ru/house6884.html",
                 "year": [],
                 "address": "улица Наличная,  10",
                 "architects": [],
@@ -18770,7 +18770,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house6977.html",
+                "sourceUrl": "http://www.citywalls.ru/house6977.html",
                 "year": [
                     [
                         1933,
@@ -18829,7 +18829,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house7164.html",
+                "sourceUrl": "http://www.citywalls.ru/house7164.html",
                 "year": [
                     [
                         1913,
@@ -18891,7 +18891,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house7234.html",
+                "sourceUrl": "http://www.citywalls.ru/house7234.html",
                 "year": [
                     [
                         1929,
@@ -18955,7 +18955,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house7316.html",
+                "sourceUrl": "http://www.citywalls.ru/house7316.html",
                 "year": [
                     1875,
                     1936
@@ -19029,7 +19029,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house7074.html",
+                "sourceUrl": "http://www.citywalls.ru/house7074.html",
                 "year": [
                     1913
                 ],
@@ -19084,7 +19084,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house7374.html",
+                "sourceUrl": "http://www.citywalls.ru/house7374.html",
                 "year": [
                     1924
                 ],
@@ -19127,7 +19127,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house7540.html",
+                "sourceUrl": "http://www.citywalls.ru/house7540.html",
                 "year": [
                     1937
                 ],
@@ -19184,7 +19184,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house7629.html",
+                "sourceUrl": "http://www.citywalls.ru/house7629.html",
                 "year": [
                     1932
                 ],
@@ -19259,7 +19259,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house7642.html",
+                "sourceUrl": "http://www.citywalls.ru/house7642.html",
                 "year": [
                     [
                         1930,
@@ -19327,7 +19327,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house7935.html",
+                "sourceUrl": "http://www.citywalls.ru/house7935.html",
                 "year": [
                     1935
                 ],
@@ -19407,7 +19407,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house7997.html",
+                "sourceUrl": "http://www.citywalls.ru/house7997.html",
                 "year": [
                     1883,
                     [
@@ -19671,7 +19671,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house8072.html",
+                "sourceUrl": "http://www.citywalls.ru/house8072.html",
                 "year": [
                     [
                         1935,
@@ -19767,7 +19767,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house8096.html",
+                "sourceUrl": "http://www.citywalls.ru/house8096.html",
                 "year": [
                     [
                         1932,
@@ -19835,7 +19835,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house8207.html",
+                "sourceUrl": "http://www.citywalls.ru/house8207.html",
                 "year": [
                     [
                         1925,
@@ -19963,7 +19963,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house8207.html",
+                "sourceUrl": "http://www.citywalls.ru/house8207.html",
                 "year": [
                     [
                         1925,
@@ -20083,7 +20083,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house8207.html",
+                "sourceUrl": "http://www.citywalls.ru/house8207.html",
                 "year": [
                     [
                         1925,
@@ -20203,7 +20203,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house8207.html",
+                "sourceUrl": "http://www.citywalls.ru/house8207.html",
                 "year": [
                     [
                         1925,
@@ -20335,7 +20335,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house8207.html",
+                "sourceUrl": "http://www.citywalls.ru/house8207.html",
                 "year": [
                     [
                         1925,
@@ -20439,7 +20439,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house8210.html",
+                "sourceUrl": "http://www.citywalls.ru/house8210.html",
                 "year": [
                     [
                         1930,
@@ -20625,7 +20625,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house8277.html",
+                "sourceUrl": "http://www.citywalls.ru/house8277.html",
                 "year": [
                     [
                         1932,
@@ -20708,7 +20708,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house8512.html",
+                "sourceUrl": "http://www.citywalls.ru/house8512.html",
                 "year": [
                     1936
                 ],
@@ -20827,7 +20827,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house8931.html",
+                "sourceUrl": "http://www.citywalls.ru/house8931.html",
                 "year": [
                     [
                         1934,
@@ -20953,7 +20953,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house8939.html",
+                "sourceUrl": "http://www.citywalls.ru/house8939.html",
                 "year": [
                     1936
                 ],
@@ -21170,7 +21170,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house8964.html",
+                "sourceUrl": "http://www.citywalls.ru/house8964.html",
                 "year": [],
                 "address": "улица Красного Курсанта,  24",
                 "architects": [],
@@ -21221,7 +21221,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house9064.html",
+                "sourceUrl": "http://www.citywalls.ru/house9064.html",
                 "year": [],
                 "address": "улица Можайская,  19",
                 "architects": [
@@ -21290,7 +21290,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house9143.html",
+                "sourceUrl": "http://www.citywalls.ru/house9143.html",
                 "year": [
                     [
                         1932,
@@ -21380,7 +21380,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house9155.html",
+                "sourceUrl": "http://www.citywalls.ru/house9155.html",
                 "year": [
                     [
                         1927,
@@ -21442,7 +21442,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house9155.html",
+                "sourceUrl": "http://www.citywalls.ru/house9155.html",
                 "year": [
                     [
                         1927,
@@ -21504,7 +21504,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house9161.html",
+                "sourceUrl": "http://www.citywalls.ru/house9161.html",
                 "year": [],
                 "address": "переулок 1-й Рабфаковский,  6",
                 "architects": [],
@@ -21555,7 +21555,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house9179.html",
+                "sourceUrl": "http://www.citywalls.ru/house9179.html",
                 "year": [
                     [
                         1929,
@@ -21626,7 +21626,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house9222.html",
+                "sourceUrl": "http://www.citywalls.ru/house9222.html",
                 "year": [],
                 "address": "улица Воронежская,  94",
                 "architects": [],
@@ -21665,7 +21665,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house9200.html",
+                "sourceUrl": "http://www.citywalls.ru/house9200.html",
                 "year": [
                     1934
                 ],
@@ -21786,7 +21786,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house9258.html",
+                "sourceUrl": "http://www.citywalls.ru/house9258.html",
                 "year": [
                     [
                         1925,
@@ -21854,7 +21854,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house9265.html",
+                "sourceUrl": "http://www.citywalls.ru/house9265.html",
                 "year": [
                     1933
                 ],
@@ -21897,7 +21897,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house9295.html",
+                "sourceUrl": "http://www.citywalls.ru/house9295.html",
                 "year": [
                     [
                         1930,
@@ -21964,7 +21964,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house9295.html",
+                "sourceUrl": "http://www.citywalls.ru/house9295.html",
                 "year": [
                     [
                         1930,
@@ -22015,7 +22015,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house9322.html",
+                "sourceUrl": "http://www.citywalls.ru/house9322.html",
                 "year": [
                     [
                         1925,
@@ -22059,7 +22059,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house9361.html",
+                "sourceUrl": "http://www.citywalls.ru/house9361.html",
                 "year": [
                     1934
                 ],
@@ -22120,7 +22120,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house9370.html",
+                "sourceUrl": "http://www.citywalls.ru/house9370.html",
                 "year": [],
                 "address": "улица Пионерская,  49",
                 "architects": [],
@@ -22159,7 +22159,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house949.html",
+                "sourceUrl": "http://www.citywalls.ru/house949.html",
                 "year": [
                     1931
                 ],
@@ -22218,7 +22218,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house9576.html",
+                "sourceUrl": "http://www.citywalls.ru/house9576.html",
                 "year": [
                     [
                         1933,
@@ -22360,7 +22360,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house9596.html",
+                "sourceUrl": "http://www.citywalls.ru/house9596.html",
                 "year": [
                     1934
                 ],
@@ -22417,7 +22417,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house9589.html",
+                "sourceUrl": "http://www.citywalls.ru/house9589.html",
                 "year": [],
                 "address": "улица Балтийская,  16",
                 "architects": [],
@@ -22456,7 +22456,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house9626.html",
+                "sourceUrl": "http://www.citywalls.ru/house9626.html",
                 "year": [
                     1936
                 ],
@@ -22605,7 +22605,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house9641.html",
+                "sourceUrl": "http://www.citywalls.ru/house9641.html",
                 "year": [
                     [
                         1929,
@@ -22715,7 +22715,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house9641.html",
+                "sourceUrl": "http://www.citywalls.ru/house9641.html",
                 "year": [
                     [
                         1929,
@@ -22825,7 +22825,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house9695.html",
+                "sourceUrl": "http://www.citywalls.ru/house9695.html",
                 "year": [
                     1935
                 ],
@@ -22910,7 +22910,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house9753.html",
+                "sourceUrl": "http://www.citywalls.ru/house9753.html",
                 "year": [
                     1934
                 ],
@@ -23099,7 +23099,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house9823.html",
+                "sourceUrl": "http://www.citywalls.ru/house9823.html",
                 "year": [],
                 "address": "улица Прилукская,  2",
                 "architects": [
@@ -23140,7 +23140,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house9912.html",
+                "sourceUrl": "http://www.citywalls.ru/house9912.html",
                 "year": [
                     [
                         1932,
@@ -23187,7 +23187,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house9927.html",
+                "sourceUrl": "http://www.citywalls.ru/house9927.html",
                 "year": [
                     [
                         1932,
@@ -23233,7 +23233,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house9928.html",
+                "sourceUrl": "http://www.citywalls.ru/house9928.html",
                 "year": [
                     [
                         1932,
@@ -23279,7 +23279,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house9953.html",
+                "sourceUrl": "http://www.citywalls.ru/house9953.html",
                 "year": [
                     [
                         1931,
@@ -23366,7 +23366,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house12810.html",
+                "sourceUrl": "http://www.citywalls.ru/house12810.html",
                 "year": [],
                 "address": "улица Дивенская,  9",
                 "architects": [],
@@ -23445,7 +23445,7 @@
         },
         {
             "properties": {
-                "citywalls": "http://www.citywalls.ru/house4046.html",
+                "sourceUrl": "http://www.citywalls.ru/house4046.html",
                 "year": [
                     [
                         1930,

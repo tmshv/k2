@@ -3,7 +3,8 @@ requested_ids = [7645,7638,8917,73268,71832,53367,82425,65636,94153,93882,94314,
 layer = iface.activeLayer()
 flist = layer.getFeatures()
 
-out = open('/Users/tmshv/osm_poly.txt', 'w')
+out_filename = os.path.expanduser('~/osm_poly.txt')
+out = open(out_filename, 'w')
 
 def listify(i):
     try:
